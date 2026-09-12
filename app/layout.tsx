@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'FinanceCalc Hub — Precision Personal Finance Calculators & Amortization Analytics',
   description:
     'Free personal finance calculators for loan EMI with amortization schedules, mortgage PITI costs, compound interest wealth velocity, and savings goals. 100% client-side private.',
-  metadataBase: new URL('https://financecalchub.local'),
+  metadataBase: new URL('https://financecalc.utilix.site'),
   keywords: [
     'EMI calculator',
     'loan amortization schedule',
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'FinanceCalc Hub — Free Personal Finance Calculators & Amortization',
     description:
       'Institutional-grade loan EMI, mortgage, compound interest, and savings goal calculators with interactive charts and exportable amortization tables.',
-    url: 'https://financecalchub.local',
+    url: 'https://financecalc.utilix.site',
     siteName: 'FinanceCalc Hub',
     type: 'website',
     locale: 'en_US',
