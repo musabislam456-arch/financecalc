@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://financecalchub.local/sitemap.xml',
+    sitemap: 'https://financecalc.utilix.site/sitemap.xml',
   };
 }
