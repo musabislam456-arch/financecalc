@@ -1,0 +1,6 @@
+{
+  "name": "FinanceCalc Hub",
+  "description": "Professional personal finance calculators: Loan EMI, Mortgage with taxes & PMI, Compound Interest, and Savings Goals with interactive amortization charts and educational guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
