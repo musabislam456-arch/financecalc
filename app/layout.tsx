@@ -34,6 +34,9 @@ export const metadata: Metadata = {
     description:
       'Interactive loan amortization, mortgage PITI breakdown, compound interest, and savings milestone calculators.',
   },
+  verification: {
+    google: 'I_SaNu0LrbiQSkKmCb7bm8LRBISuViD4KTJh0FHRo2s',
+  },
 };
 
 export default function RootLayout({
