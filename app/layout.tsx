@@ -27,13 +27,28 @@ export const metadata: Metadata = {
     siteName: 'FinanceCalc Hub',
     type: 'website',
     locale: 'en_US',
+    images: [
+      {
+        url: '/opengraph-image',
+        width: 1200,
+        height: 630,
+        alt: 'FinanceCalc Hub — Free Personal Finance Calculators & Amortization',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'FinanceCalc Hub — Personal Finance Calculators',
     description:
       'Interactive loan amortization, mortgage PITI breakdown, compound interest, and savings milestone calculators.',
+    images: ['/opengraph-image'],
   },
+  icons: {
+    icon: '/icon',
+    shortcut: '/icon',
+    apple: '/apple-icon',
+  },
+  manifest: '/manifest.webmanifest',
   verification: {
     google: 'I_SaNu0LrbiQSkKmCb7bm8LRBISuViD4KTJh0FHRo2s',
   },
